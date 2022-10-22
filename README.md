@@ -21,4 +21,4 @@ What skills from this project will be particularly transferable to other project
     
 How did you make this project maintainable, readable, and adaptable?
 
-To help ensure this project was maintable, readable and adaptable, I tried to implement best coding practices like following naming conventions and keeping the code simple. I also tried to make sure I commented the code to help keep it readable and easy to understand what I did and why I did it. 
+    To help ensure this project was maintable, readable and adaptable, I tried to implement best coding practices like following naming conventions and keeping the code simple. I also tried to make sure I commented the code to help keep it readable and easy to understand what I did and why I did it. 
